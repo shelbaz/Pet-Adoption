@@ -1,0 +1,9 @@
+1:shelbaz123:cat:None:12-14:female:1:1:1:Yeebud:Buddsjeu:shawnlol@hotmail.com
+2:she23:dog:Labrador:6-8:female:1:1:0:Yussss:mibbeMi:livetowin13@gmail.com
+3:gailk1:dog:Labrador:9-11:male:1:0:1:hello:gail kerzner:gkerzner@sympatico.ca
+4:shelbaz:dog:Mastiff:9-11:female:1:0:1:falsekey:shawnelbaz:shawn.elbaz@hotmail.com
+5:she23:cat:None:>15:female:0:1:1:loly:yayname:eres@gmail.com
+6:shelbaz:dog:Golden:6-8:female:1:1:1:Hello:elnnueu:elnnueu@gmail.com
+7:shelbaz:cat:None:6-8:male:0:1:1:Hello:elnnueu:elnnueu@gmail.com
+8:shelbaz:dog:Bichon:9-11:female:1:1:1:yay:Shawn Elbaz:livetowin13@gmail.com
+9:shelbaz:dog:Labrador:3-5:male:1:0:1:lol:yesjssj:livetowin13@gmail.com
